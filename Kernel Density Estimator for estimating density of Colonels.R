@@ -1,7 +1,6 @@
 ###############################################################################
-#   This script has two functions. To use the first function, dataVisualizer,
-# execute the function creation statement,set your data and 
-#write dataVisualizer(yourData).
+# To use this script, just replace the yourData with your actual data and
+# run the program
 ###############################################################################
 
 #Replace with your data
@@ -56,5 +55,5 @@ kernelDensityEstimator <- function (Data){
 }
 
 
-
-######## To Use, just type kernelDensityEstimator (yourData) ############
+kernelDensityEstimator (yourData)
+######## To with other data, just replace yourData and type in kernelDensityEstimator (yourData) ############

@@ -4,10 +4,14 @@ Contains traditional analysis scripts that I made for past homework assignments 
 
 # The repository contains the following programs:
 
-# Sample Estimators
+# Graphical Sample Estimators
 
 Kernel Density Estimator.R  
 Does KDE for a sample, then plots the estimated PDF, CDF, Quantile Functions
+
+# Numerical Sample Estimators
+Maximum Likelihood Estimator.R  
+Takes data and finds MLE parameters using MASS library
 
 # Survival Analysis
 

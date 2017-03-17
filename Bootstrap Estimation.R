@@ -12,7 +12,6 @@ yourData <- c(0.6, 0.7, 1.1, 1.3, 1.8, 2.0, 2.3, 2.7, 2,9, 3.1,
               55.8, 57.0, 57.2, 64.9, 67.6, 71.3, 79.5, 114.5, 128.6, 293.5)
 
 
-yourData<- log(yourData)
 #Define the bootstrap sample function. Draw 10000 samples by default
 bootStrapSampler<- function(yourData,numberofSamples = 10000){
 numberofSamples = 10000

@@ -31,7 +31,7 @@ Goodness of Fit_Anderson DarlingStatistics.pdf
 
 Goodness of Fit_Chi Squared for Discrete Distributions  
 -Does a chi-squared test, and contains instructions on how to adjust for low 
--counts
+counts
 
 BoxCox Script.R 
 -DISCLAIMER: NOT MY OWN WORK. CREDIT TO PROFESSOR LONGNECKER  

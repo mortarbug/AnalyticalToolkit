@@ -11,7 +11,7 @@ Kernel Density Estimator.R
 
 # Numerical Sample Estimators
 Maximum Likelihood Estimator.R  
--Takes data and finds MLE parameters using MASS library
+-Takes data and finds MLE parameters using MASS library  
 Bootstrap Estimation.R
 -Finds the bootstrap estimates and standard error for mean, median, standard deviation of a dataset  
 

@@ -35,3 +35,6 @@ counts
 BoxCox Script.R 
 -DISCLAIMER: NOT MY OWN WORK. CREDIT TO PROFESSOR LONGNECKER  
 -Calculates a confidence interval and MLE of the power to be used for Box-Cox Transformation  
+
+Sample QQplot.R  
+-Contains 2 qqplot codes, to be used as samples

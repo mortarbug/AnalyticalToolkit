@@ -13,7 +13,8 @@ Kernel Density Estimator.R
 Maximum Likelihood Estimator.R  
 -Takes data and finds MLE parameters using MASS library  
 Bootstrap Estimation.R
--Finds the bootstrap estimates and standard error for mean, median, standard deviation of a dataset  
+-Finds the bootstrap estimates and standard error for mean, median,     
+-  standard deviation, and median absolute deviation of a dataset    
 
 # Survival Analysis
 

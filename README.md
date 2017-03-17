@@ -2,8 +2,6 @@
 Contains traditional analysis scripts that I made for past homework assignments and during 
   my other courses. 
 
-# The repository contains the following programs:
-
 # Graphical Sample Estimators
 
 Kernel Density Estimator.R  
